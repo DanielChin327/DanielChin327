@@ -13,7 +13,7 @@ I'm a Full-Stack Developer with a passion for East Asian history. Currently, I'm
 - **Profinder**: A website that helps ex-pats living in Tokyo finding professionals from accountants to doctors that speak English. [https://github.com/DanielChin327/profinder]
 - **Samurai Service**: A fun Airbnb clone that helps you rent Samurais! [https://github.com/DanielChin327/samurai_services]
 - **Omikuji**: An app that replicates the visit to a Shinto Shrine and explains what Omikujis are in Japan [https://github.com/DanielChin327/omikuji]
-- **Weather App**: A weather app that tells you the weather with provided city. [https://github.com/DanielChin327/weather-app]
+- **Weather App**: A weather app that tells you the weather when provided a city. [https://github.com/DanielChin327/weather-app]
 - **Rock Paper Scissor**: A small rock paper scissor that practices JS. [https://github.com/DanielChin327?tab=repositories]
 
 #### Learning Journey
