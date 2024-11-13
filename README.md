@@ -2,9 +2,9 @@
 
 I'm a Full-Stack Developer with a passion for East Asian history. Currently, I'm focused on learning and transitioning my career to web development!
 
-#### Technologies & Tools
+#### Technologies & Tools I've Used
 - **Languages**: JS, Python, Ruby
-- **Frameworks/Libraries**: React, Flask, Rails, Bootstrap
+- **Frameworks/Libraries**: React, Flask, Rails, Bootstrap, Sass, MUI
 - **Databases**: SQL (with Xampp), Active Record
 - **Tools**: Git, GitHub, VSCode, Heroku
 - **Other**: RESTful API Development
