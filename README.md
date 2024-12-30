@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel!👋
 
-I'm a Full-Stack Developer with a passion for East Asian history. Currently, I'm focused on learning and transitioning my career to web development!
+I'm a Full-Stack Developer with a passion for history!
 
 #### Technologies & Tools I've Used
 - **Languages**: JS, Python, Ruby
